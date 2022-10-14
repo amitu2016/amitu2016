@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitu2016" alt="amitu2016" /></a> </p>
 
-- 🔭 I’m currently working at **CDAC Mumbai as Project Engineer**
+- 🔭 I’m currently working at **CDAC Mumbai as Senior Project Engineer**
 
 - 🌱 I’m currently learning **Spring boot, Microservices architecture, jQuery, Postgres, react, angular**
 
