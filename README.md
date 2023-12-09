@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring boot, Microservices architecture, jQuery, Postgres, react, angular**
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/amitu2016/articles](https://auth.geeksforgeeks.org/user/amitu2016/articles)
+- 📝 I regularly write articles on [https://medium.com/@amitu2016](https://medium.com/@amitu2016)
 
 - 💬 Ask me about **Java, Spring boot**
 
