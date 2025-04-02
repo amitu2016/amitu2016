@@ -41,6 +41,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitu2016&show_icons=true&locale=en&layout=compact" alt="amitu2016" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitu2016&show_icons=true&locale=en" alt="amitu2016" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitu2016&" alt="amitu2016" /></p>
