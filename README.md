@@ -19,6 +19,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@amitu2016/building-a-minimal-travel-guide-app-with-spring-boot-spring-ai-and-gemma-2b-on-ollama-integration-2e6f36bfb869
+
+https://medium.com/@amitu2016/how-to-dockerize-spring-boot-microservices-a-comprehensive-guide-f585fe016789
+
+https://medium.com/@amitu2016/optimizing-performance-and-resilience-a-comprehensive-guide-to-aws-load-balancer-auto-scaling-dd14f59a23ab
+
+https://medium.com/@amitu2016/deploying-spring-boot-web-app-on-aws-using-ec2-and-s3-4db1d0f55c78
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
