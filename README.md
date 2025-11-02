@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **CDAC Mumbai as a Senior Project Engineer**  
+- 🔭 Currently working at **Indian Bank as a Senior Backend Engineer**  
 - 🌱 Learning **Spring Boot, Microservices, jQuery, PostgreSQL, React, and Angular**  
 - 📝 I regularly write on [Medium](https://medium.com/@amitu2016)  
 - 💬 Ask me about **Java, Spring Boot, Microservices**  
